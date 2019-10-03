@@ -6,7 +6,7 @@ https://aws.amazon.com/
 Show how to Launch an AWS Linux EC2 Instance.
 
 ### Steps:
-I went to AWS Management Console (AWS Services) → Clicked, SERVICES. Than selected, EC2 instance, from the menu → Clicked, LAUNCH INSTANCES. 
+I went to AWS Management Console (AWS Services) → Clicked, SERVICES. Than selected, EC2 instances, from the menu → Clicked, LAUNCH INSTANCES in the dashboard.
 
 https://user-images.githubusercontent.com/28675258/65909606-054cd900-e397-11e9-8369-0e866ee13241.PNG
 
@@ -69,7 +69,7 @@ Afterwards, I got an error reading,"Launch Failed". I had to research why. I rea
 
 https://user-images.githubusercontent.com/28675258/65909610-05e56f80-e397-11e9-85f1-3b8fd5bf61b9.PNG
 
-Step#7, launch the instance
+Step#7, launch the instance (connect SSH Protocol)
 Had to download PuTTY in order to connect the Linux server. PuTTY requires a PPK in order to work. After downloading PuTTY, you will need to convert your PEM file into PPK file from the key generator.
 
 https://user-images.githubusercontent.com/28675258/65909605-054cd900-e397-11e9-9cdb-31c3ef4ea4f7.PNG
@@ -80,4 +80,5 @@ Openned up PuTTY → Copy your Public DNS name → Paste it in PuTTY under "Host
 https://user-images.githubusercontent.com/28675258/65909611-05e56f80-e397-11e9-80aa-ab85df9e605b.PNG
 
 
-
+# Take NOTE:
+Amazon’s abuse policy; they do not allow you to scan the third party premises. In addition, to conduct pentesting you need to complete the Penetration testing request form.
