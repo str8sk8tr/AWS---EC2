@@ -1,4 +1,4 @@
-https://aws.amazon.com/
+https://aws.amazon.com/console/ 
 
 ### EC2 Instance - Install & configure Kali Linux
 
